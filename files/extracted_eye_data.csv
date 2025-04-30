@@ -1,0 +1,19 @@
+Subject Number,Laterality,Visit Number,Interval Years,IOP,Corresponding,Acquisition Device,Resolution,Age,Gender
+1,OD,1,0.0,14.7,1_OD_1.jpg,TRC-NW8 Fundus,1556×1556,46.0,F
+1,OD,2,0.84,17.0,1_OD_2.jpg,CR-2 PLUS AF Digital,2136×2136,46.84,F
+1,OD,3,2.13,16.5,1_OD_3.jpg,CR-2 PLUS AF Digital,2136×2136,48.13,F
+1,OS,1,0.0,15.3,1_OS_1.jpg,TRC-NW8 Fundus,1556×1556,46.0,F
+1,OS,2,0.76,16.5,1_OS_2.jpg,CR-2 PLUS AF Digital,2136×2136,46.76,F
+1,OS,4,2.13,18.5,1_OS_4.jpg,CR-2 PLUS AF Digital,2136×2136,48.13,F
+2,OS,1,0.0,15.5,2_OS_1.jpg,CR-2 PLUS AF Digital,2136×2136,57.0,M
+3,OD,1,0.0,17.0,3_OD_1.jpg,TRC-NW8 Fundus,1556×1556,41.0,M
+3,OD,5,2.89,20.3,3_OD_5.jpg,CR-2 PLUS AF Digital,2136×2136,43.89,M
+3,OD,7,3.93,17.5,3_OD_7.jpg,CR-2 AF Digital,1611×1611,44.93,M
+4,OS,1,0.0,14.7,4_OS_1.jpg,CR-2 PLUS AF Digital,2136×2136,58.0,M
+4,OS,3,1.42,16.0,4_OS_3.jpg,CR-2 AF Digital,1611×1611,59.42,M
+4,OS,4,1.99,15.3,4_OS_4.jpg,CR-2 AF Digital,1611×1611,59.99,M
+5,OS,1,0.0,19.0,5_OS_1.jpg,TRC-NW8 Fundus,1556×1556,59.0,F
+5,OS,2,0.52,18.7,5_OS_2.jpg,TRC-NW8 Fundus,1556×1556,59.52,F
+5,OS,3,1.03,18.5,5_OS_3.jpg,CR-2 PLUS AF Digital,2136×2136,60.03,F
+5,OS,4,2.01,20.0,5_OS_4.jpg,CR-2 PLUS AF Digital,2136×2136,61.01,F
+5,OS,5,3.01,16.5,5_OS_5.jpg,CR-2 PLUS AF Digital,2136×2136,62.01,F
