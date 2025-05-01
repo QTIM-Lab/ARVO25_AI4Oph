@@ -1,0 +1,19 @@
+﻿Subject Number,Laterality,Visit Number,Interval Years,IOP,Corresponding CFP,Acquisition Device,Resolusion,Age,Gender
+1,OD,1,0,14.7,1_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,46,F
+1,OD,2,0.838356164,17,1_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.83835616,F
+1,OD,3,2.134246575,16.5,1_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.13424658,F
+1,OS,1,0,15.3,1_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,46,F
+1,OS,2,0.756164384,16.5,1_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.75616438,F
+1,OS,4,2.134246575,18.5,1_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.13424658,F
+2,OS,1,0,15.5,2_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,57,M
+3,OD,1,0,17,3_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,M
+3,OD,5,2.88569473,20.3,3_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43.88569473,M
+3,OD,7,3.929353779,17.5,3_OD_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,44.92935378,M
+4,OS,1,0,14.7,4_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,58,M
+4,OS,3,1.417236662,16,4_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,59.41723666,M
+4,OS,4,1.99270073,15.3,4_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,59.99270073,M
+5,OS,1,0,19,5_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59,F
+5,OS,2,0.517808219,18.7,5_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59.51780822,F
+5,OS,3,1.032876712,18.5,5_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,60.03287671,F
+5,OS,4,2.010958904,20,5_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,61.0109589,F
+5,OS,5,3.006160164,16.5,5_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,62.00616016,F
