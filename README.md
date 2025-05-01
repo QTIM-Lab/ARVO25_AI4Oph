@@ -33,7 +33,7 @@ We will use the (full) GRAPE dataset provided at `files/grape_img_info_w_file` t
 The goal of this exercise is to illustrate the abilities of NotebookLM to distill information from pdf file(s).
 
 For this exercise, you'll need to:
-- go to (NotebookLM)[https://notebooklm.google.com/]
+- go to [NotebookLM](https://notebooklm.google.com/)
 - upload the files provided in the folder `files/papers` (or any collection of papers you are interested in analyzing)
 
 Examples of questions that can be asked are:
