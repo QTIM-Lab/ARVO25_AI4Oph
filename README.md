@@ -8,7 +8,7 @@ For this exercise, we will upload a screenshot taken from a csv file for the GRA
 The GRAPE dataset includes information about patient's gender, age, and eye-specific Intra-Ocular Pressure (IOP).
 
 To run this exercise, you'll need to:
-- go to (ChatGPT)[https://chatgpt.com/]
+- go to [ChatGPT](https://chatgpt.com/)
 - upload the file `files/GRAPE_screenshot.png` and type the prompt "can you extract the data in the provided screenshot and return it in csv format?”
 
 At this point, ChatGPT will provide a link to download the generated csv file.
