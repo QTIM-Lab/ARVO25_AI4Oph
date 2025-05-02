@@ -15,7 +15,6 @@ At this point, ChatGPT will provide a link to download the generated csv file.
 
 It may also ask follow up questions on performing additional processing or data analysis on the extracted data.
 
-
 ## Exercise 2: Simple data analysis like regression, plotting
 
 The goal of this exercise is to show how simple data analysis, plotting, and machine learning can be carried out by ChatGPT.
