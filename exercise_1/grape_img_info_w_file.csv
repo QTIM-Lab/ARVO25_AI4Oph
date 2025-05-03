@@ -1,0 +1,632 @@
+﻿Subject Number,Laterality,Visit Number,Interval Years,IOP,Corresponding CFP,Acquisition Device,Resolusion,Age,Gender
+1,OD,1,0,14.7,1_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,46,F
+1,OD,2,0.838356164,17,1_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.83835616,F
+1,OD,3,2.134246575,16.5,1_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.13424658,F
+1,OS,1,0,15.3,1_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,46,F
+1,OS,2,0.756164384,16.5,1_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.75616438,F
+1,OS,4,2.134246575,18.5,1_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.13424658,F
+2,OS,1,0,15.5,2_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,57,M
+3,OD,1,0,17,3_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,M
+3,OD,5,2.88569473,20.3,3_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43.88569473,M
+3,OD,7,3.929353779,17.5,3_OD_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,44.92935378,M
+4,OS,1,0,14.7,4_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,58,M
+4,OS,3,1.417236662,16,4_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,59.41723666,M
+4,OS,4,1.99270073,15.3,4_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,59.99270073,M
+5,OS,1,0,19,5_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59,F
+5,OS,2,0.517808219,18.7,5_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59.51780822,F
+5,OS,3,1.032876712,18.5,5_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,60.03287671,F
+5,OS,4,2.010958904,20,5_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,61.0109589,F
+5,OS,5,3.006160164,16.5,5_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,62.00616016,F
+5,OS,6,3.6966046,18.7,5_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,62.6966046,F
+6,OD,1,0,13.5,6_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,54,F
+6,OD,2,0.501369863,15.5,6_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,54.50136986,F
+6,OD,4,1.591780822,15,6_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,55.59178082,F
+7,OD,1,0,19,7_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33,F
+7,OS,1,0,19,7_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33,F
+8,OD,1,0,13.5,8_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,M
+9,OS,1,0,17.5,9_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,64,F
+9,OS,3,1.435616438,22,9_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,65.43561644,F
+10,OD,1,0,22.3,10_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,F
+10,OD,2,0.55890411,20.3,10_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.55890411,F
+10,OS,1,0,18,10_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,F
+10,OS,2,0.55890411,23.3,10_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.55890411,F
+11,OD,1,0,13,11_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,35,M
+12,OD,1,0,23.5,12_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,40,F
+12,OD,3,2.809034908,38.7,12_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.80903491,F
+12,OD,4,3.400410678,21.7,12_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43.40041068,F
+12,OS,1,0,25,12_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,40,F
+12,OS,4,2.809034908,19.3,12_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.80903491,F
+12,OS,5,3.400410678,17.5,12_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43.40041068,F
+13,OD,1,0,14,13_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,63,F
+13,OS,1,0,14.5,13_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,63,F
+14,OS,1,0,18.5,14_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,64,F
+14,OS,2,0.846575342,12,14_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,64.84657534,F
+15,OS,1,0,16.5,15_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59,M
+15,OS,4,3.625410734,19.5,15_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,62.62541073,M
+16,OS,1,0,28.3,16_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,M
+17,OD,1,0,20.3,17_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22,F
+17,OD,5,3.162217659,31,17_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25.16221766,F
+17,OS,1,0,18.5,17_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22,F
+17,OS,5,3.496235455,16,17_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25.49623546,F
+18,OD,1,0,16.5,18_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,71,M
+18,OD,2,0.517808219,13.5,18_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,71.51780822,M
+18,OD,3,2.011861314,13,18_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,73.01186131,M
+18,OD,4,3.411362081,15.7,18_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,74.41136208,M
+19,OD,1,0,18.5,19_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,64,M
+19,OD,2,0.594520548,25.7,19_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,64.59452055,M
+19,OD,3,1.098630137,15,19_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,65.09863014,M
+19,OD,6,2.721423682,13,19_OD_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,66.72142368,M
+20,OD,1,0,9.5,20_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25,F
+20,OD,3,1.31874145,12.5,20_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,26.31874145,F
+20,OD,4,1.828467153,13,20_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,26.82846715,F
+21,OD,1,0,17,21_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,57,M
+21,OD,2,0.561643836,23.3,21_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,57.56164384,M
+21,OD,3,1.802739726,29,21_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,58.80273973,M
+22,OD,1,0,22.7,22_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,F
+23,OD,1,0,20.5,23_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,68,M
+23,OD,2,0.652054795,21,23_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,68.6520548,M
+23,OD,3,1.833941606,21,23_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,69.83394161,M
+23,OS,1,0,16.5,23_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,68,M
+23,OS,2,0.652054795,27.5,23_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,68.6520548,M
+23,OS,3,1.833941606,27.5,23_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,69.83394161,M
+24,OD,1,0,20.5,24_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33,M
+24,OD,3,1.031463748,19,24_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.03146375,M
+24,OD,4,1.532147743,17,24_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,34.53214774,M
+24,OS,1,0,20.5,24_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33,M
+24,OS,3,1.031463748,19.5,24_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.03146375,M
+24,OS,4,1.532147743,17,24_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,34.53214774,M
+25,OD,1,0,12,25_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34,M
+25,OD,2,0.712328767,11,25_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.71232877,M
+25,OD,3,1.343978102,12.3,25_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,35.3439781,M
+25,OD,4,1.916058394,11.3,25_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,35.91605839,M
+25,OD,5,2.422997947,11.5,25_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,36.42299795,M
+25,OS,1,0,11.5,25_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34,M
+25,OS,2,0.712328767,11.5,25_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.71232877,M
+25,OS,3,1.343978102,13,25_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,35.3439781,M
+25,OS,4,1.916058394,11.3,25_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,35.91605839,M
+25,OS,5,2.422997947,13,25_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,36.42299795,M
+26,OD,1,0,11,26_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,M
+26,OD,2,0.775956284,11.5,26_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.77595628,M
+26,OD,3,1.656021898,13,26_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,47.6560219,M
+26,OS,1,0,10.5,26_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,M
+26,OS,2,0.775956284,12.5,26_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46.77595628,M
+26,OS,3,1.656021898,15,26_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,47.6560219,M
+27,OD,1,0,18,27_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+27,OD,2,0.868852459,14.5,27_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.86885246,F
+27,OS,1,0,18.7,27_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+27,OS,2,0.868852459,13.5,27_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.86885246,F
+28,OD,1,0,15,28_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,F
+28,OD,2,0.526027397,14,28_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41.5260274,F
+28,OD,3,1.471232877,12.5,28_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.47123288,F
+28,OS,1,0,14,28_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,F
+28,OS,2,0.526027397,10.5,28_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41.5260274,F
+28,OS,3,1.471232877,13,28_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.47123288,F
+29,OD,1,0,15.5,29_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42,M
+29,OS,1,0,11.5,29_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42,M
+30,OD,1,0,20,30_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,69,M
+30,OD,2,0.61369863,10.5,30_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,69.61369863,M
+30,OD,3,1.590328467,11.5,30_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,70.59032847,M
+31,OD,1,0,25.7,31_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+31,OD,3,2.200729927,21.3,31_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.20072993,F
+31,OS,1,0,23.7,31_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+31,OS,3,2.200729927,23.5,31_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.20072993,F
+32,OD,1,0,16.3,32_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,60,F
+32,OS,1,0,16.5,32_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,60,F
+33,OD,1,0,18.5,33_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42,M
+33,OS,1,0,18.5,33_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42,M
+34,OD,1,0,22,34_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21,M
+34,OD,2,0.587431694,24,34_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.58743169,M
+34,OD,3,1.38229927,20,34_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.38229927,M
+34,OS,1,0,21.5,34_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21,M
+34,OS,2,0.587431694,21,34_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.58743169,M
+34,OS,3,1.38229927,14,34_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.38229927,M
+35,OD,1,0,20.7,35_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,50,M
+35,OS,1,0,19,35_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,50,M
+36,OD,1,0,22.7,36_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,54,F
+36,OD,2,1.348837209,24,36_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,55.34883721,F
+36,OD,3,2.326642336,23.3,36_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,56.32664234,F
+36,OS,1,0,24.7,36_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,54,F
+36,OS,2,1.348837209,22.3,36_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,55.34883721,F
+36,OS,3,2.326642336,23.3,36_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,56.32664234,F
+37,OD,1,0,20,37_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,39,M
+37,OD,4,4.052573932,11.5,37_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,43.05257393,M
+37,OS,1,0,18.5,37_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,39,M
+37,OS,4,4.052573932,10,37_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,43.05257393,M
+38,OD,1,0,17,38_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,28,F
+38,OD,2,0.583561644,15,38_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,28.58356164,F
+38,OD,3,1.402739726,15,38_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,29.40273973,F
+38,OD,4,2.165145985,12,38_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.16514599,F
+38,OD,5,3.181382615,14.5,38_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,31.18138262,F
+38,OS,1,0,16,38_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,28,F
+38,OS,2,0.583561644,14.5,38_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,28.58356164,F
+38,OS,3,1.402739726,13,38_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,29.40273973,F
+38,OS,4,2.165145985,13,38_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.16514599,F
+38,OS,5,3.181382615,15.7,38_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,31.18138262,F
+39,OD,1,0,22,39_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21,F
+39,OD,2,0.482191781,23,39_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.48219178,F
+39,OD,3,0.99726776,22.3,39_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.99726776,F
+39,OD,4,1.512995896,17,39_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,22.5129959,F
+39,OS,1,0,23,39_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21,F
+39,OS,2,0.482191781,20,39_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.48219178,F
+39,OS,3,0.99726776,22,39_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.99726776,F
+39,OS,4,1.512995896,18,39_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,22.5129959,F
+40,OD,1,0,19.5,40_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,M
+40,OD,2,0.844262295,18,40_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.8442623,M
+40,OD,3,1.721715328,18.5,40_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,52.72171533,M
+40,OS,1,0,46,40_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,M
+40,OS,2,0.844262295,32,40_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.8442623,M
+40,OS,3,1.721715328,15,40_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,52.72171533,M
+41,OD,1,0,20.3,41_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,M
+41,OD,2,1.202739726,18,41_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.20273973,M
+41,OD,4,3.06091718,19,41_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,34.06091718,M
+41,OS,1,0,19,41_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,M
+41,OS,2,1.202739726,14,41_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.20273973,M
+41,OS,4,3.06091718,18,41_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,34.06091718,M
+42,OD,1,0,26,42_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48,F
+42,OD,2,0.578082192,18.5,42_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.57808219,F
+42,OS,1,0,24.5,42_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48,F
+42,OS,2,0.578082192,19.5,42_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.57808219,F
+43,OD,1,0,15.3,43_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,28,F
+43,OD,3,1.616438356,14,43_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,29.61643836,F
+43,OS,1,0,15.7,43_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,28,F
+43,OS,3,1.616438356,15.5,43_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,29.61643836,F
+44,OD,1,0,19,44_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52,F
+44,OD,2,1.047879617,20.3,44_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,53.04787962,F
+44,OD,3,1.861313869,19.5,44_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.86131387,F
+44,OS,1,0,17,44_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52,F
+44,OS,2,1.047879617,20,44_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,53.04787962,F
+44,OS,3,1.861313869,19.5,44_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.86131387,F
+45,OD,1,0,19.5,45_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,50,F
+45,OD,2,3.40862423,14,45_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,53.40862423,F
+45,OD,3,4.433187295,14.5,45_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,54.4331873,F
+45,OS,1,0,18,45_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,50,F
+45,OS,2,3.40862423,13.3,45_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,53.40862423,F
+45,OS,3,4.433187295,14.3,45_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,54.4331873,F
+46,OD,1,0,11.5,46_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,53,M
+46,OD,4,3.155446086,11.5,46_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56.15544609,M
+46,OS,1,0,10,46_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,53,M
+46,OS,4,3.155446086,11,46_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56.15544609,M
+47,OD,1,0,16.3,47_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,M
+47,OD,2,0.580821918,16.7,47_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41.58082192,M
+47,OD,3,1.145205479,13.7,47_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.14520548,M
+47,OD,4,1.699817518,17,47_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.69981752,M
+47,OD,6,3.203285421,16.7,47_OD_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,44.20328542,M
+47,OS,1,0,16.7,47_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,41,M
+47,OS,2,0.580821918,18.7,47_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41.58082192,M
+47,OS,3,1.145205479,13.3,47_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.14520548,M
+47,OS,4,1.699817518,17,47_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.69981752,M
+47,OS,6,3.203285421,16.7,47_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,44.20328542,M
+48,OD,1,0,16,48_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,26,M
+48,OS,1,0,17,48_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,26,M
+49,OS,1,0,12,49_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,66,M
+49,OS,2,0.709589041,8.5,49_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,66.70958904,M
+50,OD,1,0,22.3,50_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,20,M
+50,OS,1,0,22.3,50_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,20,M
+51,OD,1,0,15,51_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,49,F
+51,OD,3,1.761643836,18,51_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,50.76164384,F
+51,OD,4,3.195071869,15.8,51_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,52.19507187,F
+51,OD,5,3.68788501,18.3,51_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,52.68788501,F
+51,OS,1,0,13,51_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,49,F
+51,OS,4,2.394520548,15,51_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.39452055,F
+51,OS,5,3.82803943,16.3,51_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,52.82803943,F
+51,OS,6,4.320920044,16.3,51_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.32092004,F
+52,OD,1,0,19,52_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56,F
+52,OD,2,0.513661202,16,52_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56.5136612,F
+52,OD,3,1.004103967,15.5,52_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,57.00410397,F
+52,OS,1,0,16.5,52_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56,F
+52,OS,2,0.513661202,14,52_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56.5136612,F
+52,OS,3,1.004103967,11.5,52_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,57.00410397,F
+53,OD,1,0,23.7,53_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,F
+53,OD,2,1.131506849,23,53_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.13150685,F
+53,OD,3,1.610958904,21,53_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.6109589,F
+53,OS,1,0,21.7,53_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,F
+53,OS,2,1.131506849,19.5,53_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.13150685,F
+53,OS,3,1.610958904,20,53_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.6109589,F
+54,OD,1,0,12,54_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,27,M
+54,OS,1,0,12.5,54_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,27,M
+55,OD,1,0,10,55_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30,M
+55,OS,1,0,10.5,55_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30,M
+56,OD,1,0,19,56_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,64,F
+56,OD,3,1.764383562,21,56_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,65.76438356,F
+56,OS,1,0,19.5,56_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,64,F
+56,OS,3,1.764383562,18.5,56_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,65.76438356,F
+57,OD,1,0,24.5,57_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58,M
+57,OD,2,1.076712329,18.5,57_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,59.07671233,M
+57,OD,3,1.824657534,18,57_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,59.82465753,M
+57,OS,1,0,23.3,57_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58,M
+57,OS,2,1.076712329,17.5,57_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,59.07671233,M
+57,OS,3,1.824657534,17.5,57_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,59.82465753,M
+58,OD,1,0,10.5,58_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,M
+58,OD,2,0.805479452,9.5,58_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31.80547945,M
+58,OD,4,2.36550308,12,58_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33.36550308,M
+58,OD,5,3.641840088,12,58_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,34.64184009,M
+58,OS,1,0,10,58_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,M
+58,OS,2,0.805479452,10,58_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31.80547945,M
+58,OS,4,2.36550308,11,58_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33.36550308,M
+58,OS,5,3.641840088,12,58_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,34.64184009,M
+59,OD,1,0,10,59_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,63,F
+59,OS,1,0,10,59_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,63,F
+60,OD,1,0,18.5,60_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,66,F
+60,OD,4,3.564681725,18.5,60_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,69.56468173,F
+60,OS,1,0,20.5,60_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,66,F
+60,OS,4,3.564681725,20.3,60_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,69.56468173,F
+61,OD,1,0,23,61_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,M
+61,OD,2,0.997260274,17.5,61_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18.99726027,M
+61,OD,3,2.021917808,14.5,61_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.02191781,M
+61,OS,1,0,26,61_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,M
+61,OS,2,0.997260274,20.7,61_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18.99726027,M
+61,OS,3,2.021917808,15.7,61_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.02191781,M
+62,OD,1,0,16,62_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,62,F
+62,OS,1,0,17,62_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,62,F
+63,OD,1,0,14,63_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,35,M
+63,OD,2,0.504109589,18.5,63_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,35.50410959,M
+63,OD,6,4.460569551,16.7,63_OD_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,39.46056955,M
+63,OS,1,0,13.5,63_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,35,M
+63,OS,2,0.504109589,14.7,63_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,35.50410959,M
+63,OS,6,4.460569551,14.7,63_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,39.46056955,M
+64,OD,1,0,14,64_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,47,F
+64,OS,1,0,13.3,64_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,47,F
+65,OD,1,0,16.5,65_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,66,F
+65,OS,1,0,14,65_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,66,F
+66,OD,1,0,19.5,66_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,55,M
+66,OD,3,1.998175182,14.3,66_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,56.99817518,M
+67,OD,1,0,19,67_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30,M
+67,OD,2,0.473972603,23,67_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.4739726,M
+67,OD,3,0.983561644,25,67_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.98356164,M
+67,OS,1,0,22.7,67_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30,M
+67,OS,2,0.473972603,24.7,67_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.4739726,M
+67,OS,3,0.983561644,26.7,67_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.98356164,M
+68,OD,1,0,12,68_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,M
+68,OD,3,2.431211499,13.5,68_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.4312115,M
+68,OS,1,0,12.5,68_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,M
+68,OS,3,2.431211499,14.3,68_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.4312115,M
+69,OS,1,0,12.5,69_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,70,F
+70,OD,1,0,32,70_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,20,M
+70,OD,5,4.26067908,18,70_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,24.26067908,M
+70,OS,1,0,26.3,70_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,20,M
+70,OS,5,4.26067908,18.3,70_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,24.26067908,M
+71,OD,1,0,12.5,71_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,73,F
+71,OS,1,0,11.5,71_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,73,F
+72,OD,1,0,13.5,72_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33,M
+72,OD,2,0.509589041,14,72_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33.50958904,M
+72,OD,3,1.093150685,15.5,72_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.09315069,M
+72,OS,1,0,14,72_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33,M
+72,OS,2,0.509589041,13.5,72_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33.50958904,M
+72,OS,3,1.093150685,15,72_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.09315069,M
+73,OD,1,0,15.5,73_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,61,F
+73,OD,4,4.427710843,11.3,73_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,65.42771084,F
+73,OS,1,0,16.5,73_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,61,F
+73,OS,4,4.427710843,11.3,73_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,65.42771084,F
+74,OS,1,0,15,74_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,39,M
+75,OD,1,0,17,75_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,M
+75,OD,2,0.531506849,18,75_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18.53150685,M
+75,OD,3,1.054794521,17,75_OD_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,19.05479452,M
+75,OD,4,1.495890411,15,75_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.49589041,M
+75,OD,6,3.386721424,19.5,75_OD_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.38672142,M
+75,OS,1,0,17.5,75_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18,M
+75,OS,2,0.531506849,18.7,75_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,18.53150685,M
+75,OS,3,1.054794521,16,75_OS_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,19.05479452,M
+75,OS,4,1.495890411,16,75_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.49589041,M
+75,OS,6,3.386721424,19.5,75_OS_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.38672142,M
+76,OD,1,0,13.5,76_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,52,F
+76,OS,1,0,13.5,76_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,52,F
+77,OD,1,0,27.7,77_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,35,F
+77,OD,3,1.509589041,29.7,77_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,36.50958904,F
+77,OS,1,0,18.5,77_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,35,F
+77,OS,3,1.509589041,20,77_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,36.50958904,F
+78,OD,1,0,10,78_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,19,M
+78,OD,2,1.156164384,14,78_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,20.15616438,M
+78,OS,1,0,10,78_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,19,M
+78,OS,2,1.156164384,12,78_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,20.15616438,M
+79,OD,1,0,13.7,79_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,25,F
+79,OD,4,3.143052704,15,79_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,28.1430527,F
+79,OS,1,0,12,79_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,25,F
+79,OS,4,3.143052704,11.5,79_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,28.1430527,F
+80,OD,1,0,11,80_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,44,M
+80,OS,1,0,10.5,80_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,44,M
+81,OD,1,0,15,81_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,61,F
+81,OS,1,0,15,81_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,61,F
+82,OD,1,0,16.5,82_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,F
+82,OS,1,0,15,82_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,F
+82,OS,3,1.981751825,16.5,82_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.98175183,F
+82,OS,4,2.562628337,12.5,82_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33.56262834,F
+83,OD,1,0,14,83_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,30,F
+83,OD,2,0.479452055,14,83_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.47945206,F
+83,OD,3,0.980821918,21.7,83_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.98082192,F
+83,OD,4,1.631386861,14,83_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31.63138686,F
+83,OS,1,0,15.5,83_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,30,F
+83,OS,2,0.479452055,14.5,83_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.47945206,F
+83,OS,3,0.980821918,21.3,83_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,30.98082192,F
+83,OS,4,1.631386861,15,83_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31.63138686,F
+84,OD,1,0,16,84_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,30,M
+84,OS,1,0,18,84_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,30,M
+85,OD,1,0,16,85_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,23,M
+85,OS,1,0,18.5,85_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,23,M
+86,OD,1,0,19.5,86_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,32,M
+86,OD,2,0.506849315,22.3,86_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,32.50684932,M
+86,OD,3,1.068493151,15,86_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33.06849315,M
+86,OS,1,0,17.5,86_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,32,M
+86,OS,2,0.506849315,24.7,86_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,32.50684932,M
+86,OS,3,1.068493151,11.5,86_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,33.06849315,M
+87,OD,1,0,15,87_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,57,F
+87,OD,4,2.913073238,12,87_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,59.91307324,F
+87,OS,1,0,15,87_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,57,F
+87,OS,6,2.913073238,11,87_OS_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,59.91307324,F
+88,OS,1,0,11,88_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,62,M
+89,OD,1,0,9.5,89_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,F
+89,OD,3,1.624657534,9,89_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.62465753,F
+89,OS,1,0,9.5,89_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,F
+89,OS,3,1.624657534,8.5,89_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.62465753,F
+90,OD,1,0,23,90_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,32,F
+90,OS,1,0,22,90_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,32,F
+91,OD,1,0,20,91_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,29,M
+91,OD,2,0.939726027,19.5,91_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,29.93972603,M
+91,OS,1,0,19,91_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,29,M
+91,OS,2,0.939726027,19.7,91_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,29.93972603,M
+92,OD,1,0,20,92_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,24,M
+92,OS,1,0,19,92_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,24,M
+93,OD,1,0,23,93_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22,M
+93,OD,2,0.484931507,23,93_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22.48493151,M
+93,OD,3,0.909589041,22.7,93_OD_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22.90958904,M
+93,OD,4,1.484931507,19,93_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,23.48493151,M
+93,OD,5,2.290410959,19.7,93_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,24.29041096,M
+93,OD,6,3.880065717,19.5,93_OD_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25.88006572,M
+93,OS,1,0,22.5,93_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22,M
+93,OS,2,0.484931507,22.5,93_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22.48493151,M
+93,OS,3,0.909589041,20.5,93_OS_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22.90958904,M
+93,OS,4,1.484931507,17,93_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,23.48493151,M
+93,OS,5,2.290410959,18,93_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,24.29041096,M
+93,OS,6,3.880065717,16.5,93_OS_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25.88006572,M
+94,OD,1,0,14.5,94_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,49,F
+94,OD,3,2.08850365,20.5,94_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.08850365,F
+94,OS,1,0,13.5,94_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,49,F
+94,OS,3,2.08850365,21,94_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.08850365,F
+95,OD,1,0,12.5,95_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,45,F
+95,OD,8,3.659003831,13,95_OD_8.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.65900383,F
+95,OS,1,0,12,95_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,45,F
+95,OS,8,3.659003831,13,95_OS_8.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48.65900383,F
+96,OD,1,0,21.3,96_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48,M
+96,OD,4,2.091240876,18.5,96_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,50.09124088,M
+96,OS,1,0,20,96_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,48,M
+96,OS,4,2.091240876,19.7,96_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,50.09124088,M
+97,OD,1,0,19,97_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44,M
+97,OD,2,1.444596443,17,97_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,45.44459644,M
+97,OS,1,0,19.3,97_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44,M
+97,OS,3,1.444596443,16,97_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,45.44459644,M
+98,OD,1,0,20,98_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,45,F
+98,OD,2,0.517808219,18.5,98_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,45.51780822,F
+98,OD,3,2.01459854,17.5,98_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,47.01459854,F
+98,OS,1,0,15,98_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,45,F
+98,OS,2,2.01459854,17.5,98_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,47.01459854,F
+98,OS,3,2.970568104,15,98_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,47.9705681,F
+99,OD,1,0,17,99_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,54,F
+99,OS,1,0,16,99_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,54,F
+100,OD,1,0,15,100_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+100,OD,2,0.463013699,18,100_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.4630137,F
+100,OD,3,1.02872777,16,100_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52.02872777,F
+100,OD,4,1.482900137,17.5,100_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52.48290014,F
+100,OD,5,2.039233577,17.5,100_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.03923358,F
+100,OS,1,0,16,100_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+100,OS,2,0.463013699,18,100_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51.4630137,F
+100,OS,3,1.02872777,16,100_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52.02872777,F
+100,OS,4,1.482900137,17.5,100_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52.48290014,F
+100,OS,5,2.039233577,17.5,100_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,53.03923358,F
+101,OD,1,0,18,101_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,27,M
+101,OD,6,2.85284052,16,101_OD_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,29.85284052,M
+101,OD,7,3.312799452,16.3,101_OD_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,30.31279945,M
+101,OS,1,0,19.5,101_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,27,M
+101,OS,6,2.85284052,16.7,101_OS_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,29.85284052,M
+101,OS,7,3.312799452,17,101_OS_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,30.31279945,M
+102,OS,1,0,14.5,102_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,53,F
+103,OD,1,0,13,103_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,79,M
+103,OS,1,0,11.5,103_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,79,M
+104,OD,1,0,13.5,104_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,M
+104,OS,1,0,14.5,104_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,46,M
+105,OD,1,0,20.3,105_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,19,M
+105,OD,2,0.493150685,16.5,105_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.49315069,M
+105,OD,3,0.931506849,16.5,105_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.93150685,M
+105,OD,5,1.947945205,16.5,105_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.94794521,M
+105,OD,6,2.431211499,14.5,105_OD_6.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.4312115,M
+105,OD,7,3.075027382,14,105_OD_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.07502738,M
+105,OD,8,3.567907996,14.5,105_OD_8.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.567908,M
+105,OS,1,0,22,105_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,19,M
+105,OS,2,0.493150685,19.7,105_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.49315069,M
+105,OS,3,1.495890411,18,105_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.49589041,M
+105,OS,4,1.947945205,17.5,105_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.94794521,M
+105,OS,5,2.431211499,18,105_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.4312115,M
+105,OS,6,3.075027382,14,105_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.07502738,M
+105,OS,7,3.567907996,17,105_OS_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.567908,M
+106,OD,1,0,14.5,106_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,51,F
+106,OD,4,3.156741958,17.5,106_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,54.15674196,F
+106,OS,1,0,14.5,106_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,51,F
+106,OS,3,3.085557837,18,106_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,54.08555784,F
+107,OD,1,0,24.5,107_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22,M
+107,OS,1,0,23.7,107_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,22,M
+108,OD,1,0,16.5,108_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33,F
+108,OD,2,0.556164384,16.5,108_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33.55616438,F
+108,OD,3,1.26459854,17,108_OD_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,34.26459854,F
+108,OS,1,0,18,108_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33,F
+108,OS,2,0.556164384,18,108_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,33.55616438,F
+108,OS,3,1.26459854,18,108_OS_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,34.26459854,F
+109,OD,1,0,15.5,109_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,63,F
+109,OD,3,2.995208761,15,109_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,65.99520876,F
+109,OS,1,0,16,109_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,63,F
+109,OS,3,2.995208761,15.5,109_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,65.99520876,F
+110,OD,1,0,13.5,110_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44,F
+110,OD,2,0.484931507,15,110_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44.48493151,F
+110,OD,3,0.991803279,17,110_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,44.99180328,F
+110,OD,4,1.781121751,15,110_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,45.78112175,F
+110,OS,1,0,14.5,110_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44,F
+110,OS,2,0.484931507,13,110_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44.48493151,F
+110,OS,3,0.991803279,17,110_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,44.99180328,F
+110,OS,4,1.781121751,13,110_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,45.78112175,F
+111,OD,1,0,20,111_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,28,F
+111,OD,6,4.223540146,21,111_OD_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,32.22354015,F
+111,OS,1,0,19.3,111_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,28,F
+111,OS,6,4.223540146,18,111_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,32.22354015,F
+112,OD,1,0,18.5,112_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,39,M
+112,OD,5,3.019849418,21,112_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.01984942,M
+112,OS,1,0,19,112_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,39,M
+112,OS,5,3.019849418,22.5,112_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,42.01984942,M
+113,OD,1,0,16,113_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,60,F
+113,OD,4,2.337591241,10.5,113_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,62.33759124,F
+113,OS,1,0,13.5,113_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,60,F
+113,OS,4,2.337591241,16.5,113_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,62.33759124,F
+114,OD,1,0,21.7,114_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,43,M
+114,OD,2,1.016438356,24.7,114_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44.01643836,M
+114,OS,1,0,25.3,114_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,43,M
+114,OS,2,1.016438356,24.3,114_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,44.01643836,M
+115,OS,1,0,22.3,115_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59,F
+116,OD,1,0,16.5,116_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58,F
+116,OD,7,3.869731801,18,116_OD_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,61.8697318,F
+116,OS,1,0,15.5,116_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58,F
+116,OS,7,3.869731801,18.5,116_OS_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,61.8697318,F
+117,OD,1,0,13,117_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,38,M
+117,OD,4,2.242299795,15,117_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,40.2422998,M
+117,OS,1,0,11,117_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,38,M
+117,OS,4,2.242299795,15.5,117_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,40.2422998,M
+118,OD,1,0,19.3,118_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,24,M
+118,OD,4,2.069343066,20,118_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,26.06934307,M
+118,OD,5,3.352490421,15,118_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,27.35249042,M
+118,OS,1,0,17.5,118_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,24,M
+118,OS,4,2.069343066,20,118_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,26.06934307,M
+118,OS,5,3.352490421,18.3,118_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,27.35249042,M
+119,OD,1,0,12.5,119_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,45,M
+119,OD,2,0.676712329,10.5,119_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,45.67671233,M
+119,OS,1,0,16,119_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,45,M
+119,OS,2,0.676712329,9,119_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,45.67671233,M
+120,OD,1,0,9.5,120_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,37,M
+120,OD,4,1.691605839,12,120_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,38.69160584,M
+120,OS,1,0,12.5,120_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,37,M
+120,OS,4,1.691605839,12.5,120_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,38.69160584,M
+121,OD,1,0,13,121_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,F
+121,OS,1,0,12,121_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,31,F
+122,OD,1,0,15.5,122_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,37,M
+122,OD,3,0.912328767,14,122_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,37.91232877,M
+122,OD,4,1.928767123,16.5,122_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,38.92876712,M
+122,OS,1,0,14.5,122_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,37,M
+122,OS,5,2.932238193,14,122_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,39.93223819,M
+122,OS,6,4.156626506,14.5,122_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,41.15662651,M
+123,OD,1,0,10,123_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43,M
+123,OD,2,0.438356164,9,123_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43.43835616,M
+123,OD,4,2.108145106,10.5,123_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,45.10814511,M
+123,OS,1,0,11.5,123_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43,M
+123,OS,2,0.438356164,9,123_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,43.43835616,M
+123,OS,5,2.108145106,12,123_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,45.10814511,M
+124,OD,1,0,19.5,124_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,39,M
+124,OD,2,0.545205479,20,124_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,39.54520548,M
+124,OS,1,0,18,124_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,39,M
+124,OS,2,0.545205479,18,124_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,39.54520548,M
+125,OS,1,0,15.5,125_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,38,F
+125,OS,3,1.01504788,16,125_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,39.01504788,F
+126,OD,1,0,25,126_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,54,M
+126,OD,5,2.99247091,22.3,126_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,56.99247091,M
+126,OS,1,0,24.7,126_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,54,M
+126,OS,5,2.99247091,22.3,126_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,56.99247091,M
+127,OD,1,0,27.5,127_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18,M
+127,OD,4,2.093978102,15.5,127_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.0939781,M
+127,OD,5,2.64476386,17.5,127_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,20.64476386,M
+127,OS,1,0,26,127_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18,M
+127,OS,5,2.093978102,18.5,127_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.0939781,M
+127,OS,6,2.64476386,16.3,127_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,20.64476386,M
+128,OD,1,0,14.5,128_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41,F
+128,OD,2,0.773224044,12.5,128_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41.77322404,F
+128,OD,3,1.746350365,13.5,128_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,42.74635037,F
+128,OS,1,0,17,128_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41,F
+128,OS,2,0.773224044,15.5,128_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,41.77322404,F
+128,OS,3,1.746350365,12.5,128_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,42.74635037,F
+129,OD,1,0,24.3,129_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25,F
+129,OD,3,1.341240876,15,129_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,26.34124088,F
+129,OS,1,0,21,129_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,25,F
+129,OS,3,1.341240876,14.5,129_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,26.34124088,F
+130,OD,1,0,21,130_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,74,F
+130,OD,2,1.108071135,19.7,130_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,75.10807114,F
+130,OS,1,0,18.5,130_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,74,F
+130,OS,2,1.108071135,18.5,130_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,75.10807114,F
+131,OD,1,0,22.7,131_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,23,M
+131,OD,2,0.728767123,21,131_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,23.72876712,M
+131,OD,3,1.935218978,16.1,131_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,24.93521898,M
+131,OD,4,2.390143737,20.4,131_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,25.39014374,M
+131,OD,5,2.913073238,18,131_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,25.91307324,M
+131,OS,1,0,19.5,131_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,23,M
+131,OS,2,0.728767123,20.3,131_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,23.72876712,M
+131,OS,3,1.935218978,16.2,131_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,24.93521898,M
+131,OS,4,2.390143737,20.1,131_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,25.39014374,M
+131,OS,5,2.913073238,19.5,131_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,25.91307324,M
+132,OD,1,0,14.5,132_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,25,M
+132,OS,1,0,14.5,132_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,25,M
+133,OD,1,0,55,133_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,24,M
+133,OD,5,2.189041096,17.5,133_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,26.1890411,M
+133,OS,1,0,28.7,133_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,24,M
+133,OS,5,2.189041096,27.7,133_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,26.1890411,M
+134,OD,1,0,17.5,134_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19,M
+134,OD,3,1.66149635,16.5,134_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.66149635,M
+134,OD,5,2.639288159,14.5,134_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,21.63928816,M
+134,OD,6,3.074606434,19.5,134_OD_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.07460643,M
+134,OS,1,0,18.5,134_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19,M
+134,OS,3,1.66149635,16,134_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,20.66149635,M
+134,OS,5,2.639288159,15.5,134_OS_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,21.63928816,M
+134,OS,6,3.074606434,17.5,134_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,22.07460643,M
+135,OD,1,0,20,135_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,55,F
+135,OD,3,1.891423358,19,135_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56.89142336,F
+135,OD,4,2.841889117,22,135_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,57.84188912,F
+135,OS,1,0,19.7,135_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,55,F
+135,OS,3,1.891423358,18.3,135_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,56.89142336,F
+135,OS,4,2.841889117,21,135_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,57.84188912,F
+136,OD,1,0,18.8,136_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,28,M
+136,OD,2,0.542465753,19,136_OD_2.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,28.54246575,M
+136,OD,3,0.975342466,13.9,136_OD_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,28.97534247,M
+136,OS,1,0,19.3,136_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,28,M
+136,OS,3,0.975342466,15.1,136_OS_3.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,28.97534247,M
+137,OD,1,0,12,137_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,52,M
+137,OD,2,0.471232877,14.5,137_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,52.47123288,M
+137,OD,5,2.268493151,13.5,137_OD_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,54.26849315,M
+137,OS,1,0,12.5,137_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,52,M
+137,OS,2,0.471232877,16,137_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,52.47123288,M
+137,OS,5,2.268493151,16.5,137_OS_5.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,54.26849315,M
+138,OD,1,0,19.5,138_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31,M
+138,OD,2,0.78630137,19.5,138_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31.78630137,M
+138,OD,3,1.253077975,16,138_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.25307798,M
+138,OD,4,2.107664234,15.5,138_OD_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,33.10766423,M
+138,OS,1,0,19,138_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31,M
+138,OS,2,0.78630137,18.5,138_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,31.78630137,M
+138,OS,3,1.253077975,14.5,138_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,32.25307798,M
+138,OS,4,2.107664234,14.5,138_OS_4.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,33.10766423,M
+139,OD,1,0,15.1,139_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,27,F
+139,OD,3,1.748290014,12,139_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,28.74829001,F
+139,OS,1,0,16.2,139_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,27,F
+139,OS,3,1.748290014,12.5,139_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,28.74829001,F
+140,OD,1,0,19,140_OD_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58,F
+140,OD,2,0.556164384,19.5,140_OD_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58.55616438,F
+140,OD,3,1.218065693,18.5,140_OD_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59.21806569,F
+140,OD,7,3.659003831,17.5,140_OD_7.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,61.65900383,F
+140,OD,9,4.833941606,17.5,140_OD_9.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,62.83394161,F
+140,OS,1,0,10,140_OS_1.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58,F
+140,OS,2,0.556164384,10.5,140_OS_2.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,58.55616438,F
+140,OS,3,1.218065693,7,140_OS_3.jpg,"TRC-NW8 Fundus Camera (TOPCON, Japan)",1556×1556,59.21806569,F
+140,OS,7,3.659003831,15,140_OS_7.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,61.65900383,F
+140,OS,9,4.833941606,16,140_OS_9.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,62.83394161,F
+141,OD,1,0,21,141_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18,F
+141,OD,2,0.487671233,25.5,141_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18.48767123,F
+141,OD,3,1.016438356,20.7,141_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.01643836,F
+141,OD,4,1.571167883,20.5,141_OD_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.57116788,F
+141,OD,5,2.055656934,19.3,141_OD_5.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,20.05565693,F
+141,OD,6,2.98973306,17,141_OD_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,20.98973306,F
+141,OS,1,0,22,141_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18,F
+141,OS,2,0.487671233,26.5,141_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,18.48767123,F
+141,OS,3,1.016438356,19,141_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.01643836,F
+141,OS,4,1.571167883,20.5,141_OS_4.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,19.57116788,F
+141,OS,6,2.491444216,24.7,141_OS_6.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,20.49144422,F
+141,OS,7,2.98973306,16,141_OS_7.jpg,"CR-2 AF Digital Retinal Camera (CANON, Japan)",1611×1611,20.98973306,F
+142,OD,1,0,19.3,142_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34,F
+142,OD,2,0.501369863,17,142_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.50136986,F
+142,OS,1,0,20.7,142_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34,F
+142,OS,2,0.501369863,15,142_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,34.50136986,F
+143,OD,1,0,9,143_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+143,OD,3,1.098630137,11,143_OD_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52.09863014,F
+143,OS,1,0,8,143_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,51,F
+143,OS,3,1.098630137,8,143_OS_3.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,52.09863014,F
+144,OD,1,0,20,144_OD_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21,M
+144,OD,2,0.991780822,14.5,144_OD_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.99178082,M
+144,OS,1,0,18,144_OS_1.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21,M
+144,OS,2,0.991780822,11.5,144_OS_2.jpg,"CR-2 PLUS AF Digital Retinal Camera (CANON, Japan)",2136×2136,21.99178082,M
