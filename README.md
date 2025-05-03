@@ -18,7 +18,7 @@ The GRAPE dataset includes information about patient's gender, age, and eye-spec
 
 To run this exercise, you'll need to:
 - go to [ChatGPT](https://chatgpt.com/)
-- upload the file `files/GRAPE_screenshot.png` and type the prompt "can you extract the data in the provided screenshot and return it in csv format?”
+- upload the file `exercise_1/GRAPE_screenshot.png` and type the prompt "can you extract the data in the provided screenshot and return it in csv format?”
 
 At this point, ChatGPT will provide a link to download the generated csv file.
 
