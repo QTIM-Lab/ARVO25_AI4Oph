@@ -50,3 +50,6 @@ Examples of questions that can be asked are:
 - can you identify one common limitation of these studies that could be leveraged for future research?
 
 In addition, similarly to ChatGPT, NoteBookLM also allows you to reformat information stored in a pdf. For instance, answers to medical intake forms provided by patients by circling out options can be automatically extracted and re-arranged in a csv file automatically. 
+
+
+https://notebooklm.google.com/notebook/c0ab51be-3910-4392-822e-17b8c4a3525e
