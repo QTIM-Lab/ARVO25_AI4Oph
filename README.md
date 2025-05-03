@@ -1,9 +1,18 @@
 # ARVO25 Artificial Intelligence in Ophthalmic Research course
 Repo for the ARVO 2025 Artificial Intelligence in Ophthalmic research course
+Slides for the talk are at
 
 ## Exercise 1: Using ChatGPT to extract data from a screenshot
+We will first try to parse a simple image of a table 
 
-For this exercise, we will upload a screenshot taken from a csv file for the GRAPE dataset (available [here](https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319)).
+To run this exercise, you'll need to:
+- go to [ChatGPT](https://chatgpt.com/)
+- upload the file `exercise_1/iop_table.png` and type the prompt "can you extract the data in the provided screenshot and return it in csv format?”
+
+
+
+
+For another similar exercise, we will upload a screenshot taken from a csv file for the GRAPE dataset (available [here](https://springernature.figshare.com/collections/GRAPE_A_multi-modal_glaucoma_dataset_of_follow-up_visual_field_and_fundus_images_for_glaucoma_management/6406319)).
 
 The GRAPE dataset includes information about patient's gender, age, and eye-specific Intra-Ocular Pressure (IOP).
 
