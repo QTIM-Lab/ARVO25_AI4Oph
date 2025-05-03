@@ -42,7 +42,7 @@ The goal of this exercise is to illustrate the abilities of NotebookLM to distil
 
 For this exercise, you'll need to:
 - go to [NotebookLM](https://notebooklm.google.com/)
-- upload the files provided in the folder `files/papers` (or any collection of papers you are interested in analyzing)
+- upload the files provided in the folder `exercise_3/papers` (or any collection of papers you are interested in analyzing)
 
 Examples of questions that can be asked are:
 - can you provide a paragraph summarizing the uploaded papers?
