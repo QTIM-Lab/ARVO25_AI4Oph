@@ -1,6 +1,6 @@
 # ARVO25 Artificial Intelligence in Ophthalmic Research course
 Repo for the ARVO 2025 Artificial Intelligence in Ophthalmic research course
-Slides for the talk are at
+Slides for the talk are at https://www.dropbox.com/scl/fi/m7nfyjvxl7ng5gacu0hw7/ARVO25_llm_tutorial_share.pptx?rlkey=icg2u9y0qciky9kp585dkx8kl&dl=0
 
 ## Exercise 1: Using ChatGPT to extract data from a screenshot
 We will first try to parse a simple image of a table 
